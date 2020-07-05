@@ -30,3 +30,7 @@ print(resultado_multiplicacion)
 print(primer_numero * segundo_numero)
 print(resultado_potencia)
 print(primer_numero ** segundo_numero)
+
+# Al trabajar con las reglas de precedencia siempre tener que indicar parentesis entre los numeros a operar
+promedio = (primer_numero + segundo_numero) / 2
+print('El promedio entre 3 y 39 es: ', promedio)
