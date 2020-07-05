@@ -1,5 +1,9 @@
 # Asignación de un valor a una variable.
 # Una variable es un espacio en memoria que almacena algún tipo de dato.
+# No puede comenzar por un numerom
+# No puede contener espacios
+# Tampoco puede contener simbolos especiales (áéñ?'¿!)
+# Podemos utilizar _ para separar palabraas.
 
 print('Muestra de variables numéricas', '\n')
 primer_numero = 3
