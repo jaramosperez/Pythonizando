@@ -20,3 +20,4 @@ print(palabra[-4])  # Caracter de la posición 4 correspondería a la letra h
 print(palabra[-5])  # Caracter de la posición 4 correspondería a la letra y
 print(palabra[-6])  # Caracter de la posición 4 correspondería a la letra p
 
+
