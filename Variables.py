@@ -1,6 +1,6 @@
 # Asignación de un valor a una variable.
 # Una variable es un espacio en memoria que almacena algún tipo de dato.
-# No puede comenzar por un numerom
+# No puede comenzar por un numero
 # No puede contener espacios
 # Tampoco puede contener simbolos especiales (áéñ?'¿!)
 # Podemos utilizar _ para separar palabraas.
