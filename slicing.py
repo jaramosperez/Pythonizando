@@ -10,3 +10,8 @@ print(palabra[2:])
 
 # Si no se inidican indices mostrará la cadena de texto completa
 print(palabra[:])
+
+# EJEMPLO DE CONCATENAR UNA CADENA COMPLETA
+print("\nPalabra concatenada con la técnica de slicing")
+print(palabra[:3] + palabra[3:])
+
