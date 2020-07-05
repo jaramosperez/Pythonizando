@@ -4,6 +4,7 @@
 # No puede contener espacios
 # Tampoco puede contener simbolos especiales (áéñ?'¿!)
 # Podemos utilizar _ para separar palabraas.
+# UNA BUENA PRÁCTICA ES USAR LOS NOMBRES EN MINUSCULAS.
 
 print('Muestra de variables numéricas', '\n')
 primer_numero = 3
