@@ -34,3 +34,26 @@ print(primer_numero ** segundo_numero)
 # Al trabajar con las reglas de precedencia siempre tener que indicar parentesis entre los numeros a operar
 promedio = (primer_numero + segundo_numero) / 2
 print('El promedio entre 3 y 39 es: ', promedio)
+
+# TRABAJAR VARIABLES CON CADENAS DE TEXTO
+
+# Asignación de una cadena de caracteres a una variable
+cadena = 'Esto es una cadena de caracteres\nCon dos lineas'
+print(cadena)
+
+# Concatenación o Suma de Cadenas.
+segunda_cadena = '\nEsto continua el texto anterior '
+print(cadena + segunda_cadena)
+
+# Se pueden contenar cadenas de caracteres sin usar el operador + siempre que no se incluyan variables
+# solo se permiten cadenas puras
+# NO FUNCIONA CON VARIABLES
+print("Esta cadena" " es parte " "de un ejemplo de " "concatenación de " "text")
+
+# Siguiente el ejemplo anterior se puede almacenar esa cadena en una variable y mostrarla
+concatenar_texto = "Esta cadena" " es parte " "de un ejemplo de " "concatenación de " "text"
+print(concatenar_texto)
+
+# Se pueden multiplicar cadenas por ejemplo necesitar varios espacios
+diez_espacios = " " * 10
+print(diez_espacios, 'Antes de iniciar este texto hay diez espacios')
