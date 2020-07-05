@@ -15,3 +15,4 @@ print(palabra[:])
 print("\nPalabra concatenada con la técnica de slicing")
 print(palabra[:3] + palabra[3:])
 
+
