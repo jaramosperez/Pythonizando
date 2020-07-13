@@ -24,3 +24,8 @@ matriz[3].append(valor_3)
 print(matriz)
 
 # Me costo mas de una hora resolverlo.
+# Agregando otra solución mas corta.
+matriz[1][-1] = sum(matriz[1][:-1])
+matriz[3][-1] = sum(matriz[3][:-1])
+
+print(matriz)
