@@ -12,4 +12,5 @@ nota_3 = 4
 
 nota_final = ((nota_1 * 15) / 100) + ((nota_2 * 35) / 100) + ((nota_3 * 50) / 100)
 # nota_final = nota_1 * 0.15 + nota_2 * 0.35 + nota_3 * 0.50
+
 print("La nota final es: ", nota_final)
