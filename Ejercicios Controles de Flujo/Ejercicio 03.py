@@ -11,3 +11,7 @@ numero = []
 for i in range(0, 102, 2):
     numero.append(i)
 print(sum(numero))
+
+# OTRA FORMA DE HACERLO
+suma = sum(range(0, 101, 2))
+print(suma)
