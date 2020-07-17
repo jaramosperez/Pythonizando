@@ -1,14 +1,14 @@
-nota_1 = 56
-nota_2 = 29
-nota_3 = 37
-nota_4 = 65
+nota_1 = 56 * 0.2
+nota_2 = 29 * 0.3
+nota_3 = 37 * 0.3
+nota_4 = 65 * 0.2
 
-promedio = (nota_1 + nota_2 + nota_3 + nota_4) / 4
+promedio = (nota_1 + nota_2 + nota_3 + nota_4)
 
-print(promedio)
+print('Este es mi promedio: ', promedio)
 
-final = promedio * 75 / 100
+final = promedio * 0.75
 print(final)
 
-examen = 60 * 25 /100
+examen = 50 * 0.25
 print(examen+final)
