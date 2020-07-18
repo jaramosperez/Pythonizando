@@ -28,3 +28,4 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [ ] Collections, Datetime, Math, Random.
 - [ ] Manejo de Ficheros de texto y objetos con Pickle.
 - [ ] Manejo de punteros.
+- [ ] Interfaces gráficas con Tkinter.
