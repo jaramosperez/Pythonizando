@@ -22,7 +22,7 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [x] Métodos especiales.
 - [x] Objetos dentro de Objetos
 - [x] Encapsulación de atributos y métodos.
-- [ ] Herencias, clases heredadas, polimorfismo, herencia multiple.
+- [x] Herencias, clases heredadas, polimorfismo, herencia multiple.
 - [ ] Métodos en Listas, Diccionarios, Conjuntoss.
 - [ ] Módulos y Paquetes, distribución básica.
 - [ ] Collections, Datetime, Math, Random.
