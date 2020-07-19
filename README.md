@@ -17,10 +17,10 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [x] Argumentos y Parámetros
 - [x] Argumentos por valor y por referencia.
 - [x] Manejo de errores y excepciones(Tipos de excepciones).
-- [ ] Clases y Objetos.
-- [ ] Atributos y metodos de clases.
-- [ ] Métodos especiales.
-- [ ] Objetos dentro de Objetos
+- [x] Clases y Objetos.
+- [x] Atributos y metodos de clases.
+- [x] Métodos especiales.
+- [x] Objetos dentro de Objetos
 - [ ] Encapsulación de atributos y métodos.
 - [ ] Herencias, clases heredadas, polimorfismo, herencia multiple.
 - [ ] Métodos en Listas, Diccionarios, Conjuntoss.
