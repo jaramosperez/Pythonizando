@@ -21,7 +21,7 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [x] Atributos y metodos de clases.
 - [x] Métodos especiales.
 - [x] Objetos dentro de Objetos
-- [ ] Encapsulación de atributos y métodos.
+- [x] Encapsulación de atributos y métodos.
 - [ ] Herencias, clases heredadas, polimorfismo, herencia multiple.
 - [ ] Métodos en Listas, Diccionarios, Conjuntoss.
 - [ ] Módulos y Paquetes, distribución básica.
