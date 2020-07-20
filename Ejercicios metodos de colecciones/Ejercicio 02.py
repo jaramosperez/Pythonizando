@@ -44,4 +44,4 @@ print(valor)
 # Añadir como primer elemento de la lista de pares la suma realizada
 lista_pares.insert(0, valor)
 print(lista_pares)
-print(lista_pares[0] == sum(lista_pares[:1]))
+print(lista_pares[0] == sum(lista_pares[1:]))
