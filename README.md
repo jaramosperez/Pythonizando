@@ -23,7 +23,7 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [x] Objetos dentro de Objetos
 - [x] Encapsulación de atributos y métodos.
 - [x] Herencias, clases heredadas, polimorfismo, herencia multiple.
-- [ ] Métodos en Listas, Diccionarios, Conjuntoss.
+- [x] Métodos en Listas, Diccionarios, Conjuntoss.
 - [ ] Módulos y Paquetes, distribución básica.
 - [ ] Collections, Datetime, Math, Random.
 - [ ] Manejo de Ficheros de texto y objetos con Pickle.
