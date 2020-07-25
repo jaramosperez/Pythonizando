@@ -16,3 +16,22 @@ print(Counter(animales))
 
 print(animales)
 print(Counter(animales.split()))
+
+c = Counter(animales.split())
+
+# Metodo most_common para ver cual es el elemento que mas se repite podemos buscar el segundo o tercero ....
+print(c.most_common(2))
+print(c.most_common())
+
+lista = {10, 20, 30, 40, 30, 30, 20, 40}
+
+c = Counter(lista)
+
+print(c.items())
+print(c.keys())
+print(c.values())
+
+print(sum(c.values()))
+
+print(dict(c))
+print(set(c))
