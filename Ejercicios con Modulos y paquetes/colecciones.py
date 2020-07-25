@@ -8,3 +8,11 @@ print(Counter(listado))
 
 p = "palabra"
 print(Counter(p))
+
+animales = "gato perro león león Gato gato canario perro oveja perro"
+
+print(Counter(animales))
+
+
+print(animales)
+print(Counter(animales.split()))
