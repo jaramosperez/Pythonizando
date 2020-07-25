@@ -1,6 +1,6 @@
 # Sublcase del diccionario y nos sirve para contar objetos.
 # Para saber cuantos elemento se repiten en una lista, o la cantidad de caracteres de una listat
-from collections import Counter
+from collections import Counter, defaultdict, OrderedDict
 
 listado = [1, 1, 2, 2, 3, 4, 4, 4, 5, 5, 6, 6, 4]
 
@@ -12,7 +12,6 @@ print(Counter(p))
 animales = "gato perro león león Gato gato canario perro oveja perro"
 
 print(Counter(animales))
-
 
 print(animales)
 print(Counter(animales.split()))
@@ -35,3 +34,16 @@ print(sum(c.values()))
 
 print(dict(c))
 print(set(c))
+
+# d = {}
+# print(d['algo'])
+
+# d = defaultdict(float)
+# print(d['algo'])
+
+# d = defaultdict(str)
+# print(d['algo'])
+
+d = defaultdict(object)
+print(d['algo'])
+print(d)
