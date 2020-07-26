@@ -24,8 +24,8 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [x] Encapsulación de atributos y métodos.
 - [x] Herencias, clases heredadas, polimorfismo, herencia multiple.
 - [x] Métodos en Listas, Diccionarios, Conjuntoss.
-- [ ] Módulos y Paquetes, distribución básica.
-- [ ] Collections, Datetime, Math, Random.
+- [x] Módulos y Paquetes, distribución básica.
+- [x] Collections, Datetime, Math, Random.
 - [ ] Manejo de Ficheros de texto y objetos con Pickle.
 - [ ] Manejo de punteros.
 - [ ] Interfaces gráficas con Tkinter.
