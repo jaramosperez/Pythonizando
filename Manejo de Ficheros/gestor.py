@@ -25,7 +25,7 @@ class Gestor:
         for pTemporal in self.personajes:
             if pTemporal.nombre == p.nombre:
                 return
-            self.personajes.append()
+            self.personajes.append(p)
             self.guardar()
 
     def borrar(self, nombre):
@@ -62,8 +62,8 @@ class Gestor:
 
 # Realizamos las pruebas
 
-
 G = Gestor()
+G.mostrar()
 G.agregar(Personaje("Caballero", 4, 2, 4, 2))
 G.agregar(Personaje("Guerrero", 2, 4, 2, 4))
 G.agregar(Personaje("Arquero", 2, 4, 1, 8))

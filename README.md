@@ -26,6 +26,6 @@ Ahora estoy comprendiendo conceptos de mejor manera y complementando conceptos y
 - [x] Métodos en Listas, Diccionarios, Conjuntoss.
 - [x] Módulos y Paquetes, distribución básica.
 - [x] Collections, Datetime, Math, Random.
-- [ ] Manejo de Ficheros de texto y objetos con Pickle.
-- [ ] Manejo de punteros.
+- [x] Manejo de Ficheros de texto y objetos con Pickle.
+- [x] Manejo de punteros.
 - [ ] Interfaces gráficas con Tkinter.
